@@ -1,6 +1,6 @@
 {
   "name": "cerebro-salary",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cerebro plugin for calculating take-home wage in Czech Republic.",
   "license": "MIT",
   "repository": "Myslik/cerebro-salary",
