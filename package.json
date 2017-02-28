@@ -20,7 +20,8 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "salary"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
